@@ -110,8 +110,10 @@ GitHub Pages를 사용하여 기존 레포지토리에서 웹 페이지를 배�
 ## 5. 배포된 HTML 확인
 GitHub Pages에서 배포된 HTML 페이지는 설정 후 약 1-2분 내에 활성화됩니다.
 
-1. 페이지 URL을 클릭하여 정상적으로 배포되었는지 확인합니다.
+1. 페이지 URL을 클릭하여 정상적으로 배포되었는지 확인합니다. (https://github.com/사용자이름/레포지토리이름/actions)
 2. URL 형식: `https://사용자이름.github.io/레포지토리이름`
+
 https://yangsancenter.github.io/ys
+https://github.com/yangsancenter/ys/actions
 
 ref : https://docs.github.com/ko/pages
