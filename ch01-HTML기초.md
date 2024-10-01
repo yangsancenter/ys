@@ -5,11 +5,10 @@
 HTML은 웹 페이지를 만들기 위한 언어입니다. 웹 페이지의 구조를 나타내는 역할을 합니다.
 
 ### HTML 구조
-HTML 문서는 다음과 같은 기본 구조로 이루어져 있습니다:
+영어가 나오니 벌써 어지러우시죠? 구조를 알고보면 볼만해요.
 
 ```html
-<!DOCTYPE html>
-<html lang="ko">
+<html>
 <head>
     <meta charset="UTF-8">
     <title>내 웹사이트</title>
