@@ -8,7 +8,7 @@ HTML은 웹 페이지를 만들기 위한 언어입니다. 웹 페이지의 구�
 영어가 나오니 벌써 어지러우시죠? 구조를 알고보면 볼만해요.
 
 ```html
-<html>
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
     <title>내 웹사이트</title>
