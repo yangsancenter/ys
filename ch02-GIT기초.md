@@ -51,8 +51,15 @@ git push origin 브랜치이름
 git pull origin 브랜치이름
 ```
 
----
+#### 7. git config
+git commit 작성자 정보 설정
 
+```bash
+git config --global user.name "Jonghyun"
+git config --global user.email "yangsancenter.study@gmail.com"
+```
+
+---
 
 ## 1. GitHub 계정 가입
 GitHub 계정을 만들려면 다음 단계를 따릅니다:
